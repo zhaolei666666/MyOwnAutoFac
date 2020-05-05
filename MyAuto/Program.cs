@@ -10,6 +10,7 @@ namespace MyAuto
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
